@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e30561ce-dfd4-4d5c-b4d6-f76785663048" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/edit_equipment.py" beforeDir="false" afterPath="$PROJECT_DIR$/edit_equipment.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/loan_equip.py" beforeDir="false" afterPath="$PROJECT_DIR$/loan_equip.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sqlite/application_database.db" beforeDir="false" afterPath="$PROJECT_DIR$/sqlite/application_database.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/supervisor_window.py" beforeDir="false" afterPath="$PROJECT_DIR$/supervisor_window.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/EngineerDevProject_stableui$loan_equip.coverage" NAME="loan_equip Coverage Results" MODIFIED="1555436718659" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ProjectTelo$supervisor_window.coverage" NAME="supervisor_window Coverage Results" MODIFIED="1556298130624" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ProjectTelo$user_window.coverage" NAME="user_window Coverage Results" MODIFIED="1556297817754" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/EngineerDevProject_stableui$add_material.coverage" NAME="add_material Coverage Results" MODIFIED="1555163986554" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/EngineerDevProject_stableui$edit_equipment.coverage" NAME="edit_equipment Coverage Results" MODIFIED="1555348910151" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/EngineerDevProject_stableui$add_equipment.coverage" NAME="add_equipment Coverage Results" MODIFIED="1555261022303" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ProjectTelo$login_window.coverage" NAME="login_window Coverage Results" MODIFIED="1556651298975" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/EngineerDevProject_stableui$edit_material.coverage" NAME="edit_material Coverage Results" MODIFIED="1555278615038" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/ProjectTelo$admin_window.coverage" NAME="admin_window Coverage Results" MODIFIED="1556352970956" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/EngineerDevProject_stableui$login_window.coverage" NAME="login_window Coverage Results" MODIFIED="1555435427971" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/EngineerDevProject_stableui$admin_window.coverage" NAME="admin_window Coverage Results" MODIFIED="1555436432099" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/EngineerDevProject_stableui$update_material.coverage" NAME="update_material Coverage Results" MODIFIED="1555268064370" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1UfxzTTK8kOOFr5lgJLz7rj7YKd" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+  </component>
+  <component name="RunManager" selected="Python.admin_window">
+    <configuration name="admin_window" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="EngineerDevProject-application" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/admin_window.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="edit_equipment" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="EngineerDevProject-application" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/edit_equipment.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="edit_material" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="EngineerDevProject-application" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/edit_material.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="loan_equip" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="EngineerDevProject-application" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/loan_equip.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="login_window" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="EngineerDevProject-application" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/login_window.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.admin_window" />
+        <item itemvalue="Python.login_window" />
+        <item itemvalue="Python.edit_material" />
+        <item itemvalue="Python.edit_equipment" />
+        <item itemvalue="Python.loan_equip" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e30561ce-dfd4-4d5c-b4d6-f76785663048" name="Default Changelist" comment="" />
+      <created>1554886955682</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1554886955682</updated>
+      <workItem from="1554886962104" duration="2917000" />
+      <workItem from="1554890288910" duration="55000" />
+      <workItem from="1554890605490" duration="2398000" />
+      <workItem from="1555143872447" duration="16272000" />
+      <workItem from="1555175065004" duration="2424000" />
+      <workItem from="1555258808472" duration="3404000" />
+      <workItem from="1555265074084" duration="2360000" />
+      <workItem from="1555276087227" duration="4847000" />
+      <workItem from="1555345497973" duration="4608000" />
+      <workItem from="1555357023496" duration="817000" />
+      <workItem from="1555400455425" duration="11235000" />
+      <workItem from="1555417983736" duration="4445000" />
+      <workItem from="1555434710195" duration="1831000" />
+      <workItem from="1555436701939" duration="28000" />
+      <workItem from="1555609915916" duration="601000" />
+      <workItem from="1556270470772" duration="19064000" />
+      <workItem from="1556291886014" duration="62000" />
+      <workItem from="1556296012796" duration="6380000" />
+      <workItem from="1556302415014" duration="84000" />
+      <workItem from="1556302514419" duration="46000" />
+      <workItem from="1556351216854" duration="2138000" />
+      <workItem from="1556650853097" duration="455000" />
+      <workItem from="1558599015218" duration="4268000" />
+      <workItem from="1558604221966" duration="64000" />
+      <workItem from="1558604328975" duration="27000" />
+      <workItem from="1558604810498" duration="41000" />
+      <workItem from="1558604927913" duration="14000" />
+      <workItem from="1558697768860" duration="1583000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="92468000" />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="628" y="360" key="FileChooserDialogImpl" timestamp="1575761883652">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state x="628" y="360" key="FileChooserDialogImpl/0.40.1920.1040@0.40.1920.1040" timestamp="1575761883652" />
+    <state width="1362" height="151" key="GridCell.Tab.0.bottom" timestamp="1575761887375">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state width="1362" height="151" key="GridCell.Tab.0.bottom/0.40.1920.1040@0.40.1920.1040" timestamp="1575761887375" />
+    <state width="1362" height="151" key="GridCell.Tab.0.center" timestamp="1575761887375">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state width="1362" height="151" key="GridCell.Tab.0.center/0.40.1920.1040@0.40.1920.1040" timestamp="1575761887375" />
+    <state width="1362" height="151" key="GridCell.Tab.0.left" timestamp="1575761887375">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state width="1362" height="151" key="GridCell.Tab.0.left/0.40.1920.1040@0.40.1920.1040" timestamp="1575761887375" />
+    <state width="1362" height="151" key="GridCell.Tab.0.right" timestamp="1575761887375">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state width="1362" height="151" key="GridCell.Tab.0.right/0.40.1920.1040@0.40.1920.1040" timestamp="1575761887375" />
+    <state x="349" y="247" key="SettingsEditor" timestamp="1575761814157">
+      <screen x="0" y="40" width="1920" height="1040" />
+    </state>
+    <state x="349" y="247" key="SettingsEditor/0.40.1920.1040@0.40.1920.1040" timestamp="1575761814157" />
+  </component>
+</project>

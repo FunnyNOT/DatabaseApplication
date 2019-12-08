@@ -1,0 +1,1 @@
+This is the application database file.Initialized empty.
